@@ -1,0 +1,36 @@
+C:\Users\305-9\Desktop\Гребенюков ПР-21\Основы_Алгоритмизации\Practice13_Grebenukov\Practice13_Zadanie3\bin\Debug\net5.0-windows\Practice13_Zadanie3.exe
+C:\Users\305-9\Desktop\Гребенюков ПР-21\Основы_Алгоритмизации\Practice13_Grebenukov\Practice13_Zadanie3\bin\Debug\net5.0-windows\Practice13_Zadanie3.deps.json
+C:\Users\305-9\Desktop\Гребенюков ПР-21\Основы_Алгоритмизации\Practice13_Grebenukov\Practice13_Zadanie3\bin\Debug\net5.0-windows\Practice13_Zadanie3.runtimeconfig.json
+C:\Users\305-9\Desktop\Гребенюков ПР-21\Основы_Алгоритмизации\Practice13_Grebenukov\Practice13_Zadanie3\bin\Debug\net5.0-windows\Practice13_Zadanie3.runtimeconfig.dev.json
+C:\Users\305-9\Desktop\Гребенюков ПР-21\Основы_Алгоритмизации\Practice13_Grebenukov\Practice13_Zadanie3\bin\Debug\net5.0-windows\Practice13_Zadanie3.dll
+C:\Users\305-9\Desktop\Гребенюков ПР-21\Основы_Алгоритмизации\Practice13_Grebenukov\Practice13_Zadanie3\bin\Debug\net5.0-windows\ref\Practice13_Zadanie3.dll
+C:\Users\305-9\Desktop\Гребенюков ПР-21\Основы_Алгоритмизации\Practice13_Grebenukov\Practice13_Zadanie3\bin\Debug\net5.0-windows\Practice13_Zadanie3.pdb
+C:\Users\305-9\Desktop\Гребенюков ПР-21\Основы_Алгоритмизации\Practice13_Grebenukov\Practice13_Zadanie3\obj\Debug\net5.0-windows\Practice13_Zadanie3.csproj.AssemblyReference.cache
+C:\Users\305-9\Desktop\Гребенюков ПР-21\Основы_Алгоритмизации\Practice13_Grebenukov\Practice13_Zadanie3\obj\Debug\net5.0-windows\Practice13_Zadanie3.Form1.resources
+C:\Users\305-9\Desktop\Гребенюков ПР-21\Основы_Алгоритмизации\Practice13_Grebenukov\Practice13_Zadanie3\obj\Debug\net5.0-windows\Practice13_Zadanie3.csproj.GenerateResource.cache
+C:\Users\305-9\Desktop\Гребенюков ПР-21\Основы_Алгоритмизации\Practice13_Grebenukov\Practice13_Zadanie3\obj\Debug\net5.0-windows\Practice13_Zadanie3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\305-9\Desktop\Гребенюков ПР-21\Основы_Алгоритмизации\Practice13_Grebenukov\Practice13_Zadanie3\obj\Debug\net5.0-windows\Practice13_Zadanie3.AssemblyInfoInputs.cache
+C:\Users\305-9\Desktop\Гребенюков ПР-21\Основы_Алгоритмизации\Practice13_Grebenukov\Practice13_Zadanie3\obj\Debug\net5.0-windows\Practice13_Zadanie3.AssemblyInfo.cs
+C:\Users\305-9\Desktop\Гребенюков ПР-21\Основы_Алгоритмизации\Practice13_Grebenukov\Practice13_Zadanie3\obj\Debug\net5.0-windows\Practice13_Zadanie3.csproj.CoreCompileInputs.cache
+C:\Users\305-9\Desktop\Гребенюков ПР-21\Основы_Алгоритмизации\Practice13_Grebenukov\Practice13_Zadanie3\obj\Debug\net5.0-windows\Practice13_Zadanie3.dll
+C:\Users\305-9\Desktop\Гребенюков ПР-21\Основы_Алгоритмизации\Practice13_Grebenukov\Practice13_Zadanie3\obj\Debug\net5.0-windows\ref\Practice13_Zadanie3.dll
+C:\Users\305-9\Desktop\Гребенюков ПР-21\Основы_Алгоритмизации\Practice13_Grebenukov\Practice13_Zadanie3\obj\Debug\net5.0-windows\Practice13_Zadanie3.pdb
+C:\Users\305-9\Desktop\Гребенюков ПР-21\Основы_Алгоритмизации\Practice13_Grebenukov\Practice13_Zadanie3\obj\Debug\net5.0-windows\Practice13_Zadanie3.genruntimeconfig.cache
+H:\Основы_Алгоритмизации\Practice13_Zadanie3\bin\Debug\net5.0-windows\Practice13_Zadanie3.exe
+H:\Основы_Алгоритмизации\Practice13_Zadanie3\bin\Debug\net5.0-windows\Practice13_Zadanie3.deps.json
+H:\Основы_Алгоритмизации\Practice13_Zadanie3\bin\Debug\net5.0-windows\Practice13_Zadanie3.runtimeconfig.json
+H:\Основы_Алгоритмизации\Practice13_Zadanie3\bin\Debug\net5.0-windows\Practice13_Zadanie3.runtimeconfig.dev.json
+H:\Основы_Алгоритмизации\Practice13_Zadanie3\bin\Debug\net5.0-windows\Practice13_Zadanie3.dll
+H:\Основы_Алгоритмизации\Practice13_Zadanie3\bin\Debug\net5.0-windows\Practice13_Zadanie3.pdb
+H:\Основы_Алгоритмизации\Practice13_Zadanie3\obj\Debug\net5.0-windows\Practice13_Zadanie3.csproj.AssemblyReference.cache
+H:\Основы_Алгоритмизации\Practice13_Zadanie3\obj\Debug\net5.0-windows\Practice13_Zadanie3.Form1.resources
+H:\Основы_Алгоритмизации\Practice13_Zadanie3\obj\Debug\net5.0-windows\Practice13_Zadanie3.csproj.GenerateResource.cache
+H:\Основы_Алгоритмизации\Practice13_Zadanie3\obj\Debug\net5.0-windows\Practice13_Zadanie3.GeneratedMSBuildEditorConfig.editorconfig
+H:\Основы_Алгоритмизации\Practice13_Zadanie3\obj\Debug\net5.0-windows\Practice13_Zadanie3.AssemblyInfoInputs.cache
+H:\Основы_Алгоритмизации\Practice13_Zadanie3\obj\Debug\net5.0-windows\Practice13_Zadanie3.AssemblyInfo.cs
+H:\Основы_Алгоритмизации\Practice13_Zadanie3\obj\Debug\net5.0-windows\Practice13_Zadanie3.csproj.CoreCompileInputs.cache
+H:\Основы_Алгоритмизации\Practice13_Zadanie3\obj\Debug\net5.0-windows\Practice13_Zadanie3.dll
+H:\Основы_Алгоритмизации\Practice13_Zadanie3\obj\Debug\net5.0-windows\refint\Practice13_Zadanie3.dll
+H:\Основы_Алгоритмизации\Practice13_Zadanie3\obj\Debug\net5.0-windows\Practice13_Zadanie3.pdb
+H:\Основы_Алгоритмизации\Practice13_Zadanie3\obj\Debug\net5.0-windows\Practice13_Zadanie3.genruntimeconfig.cache
+H:\Основы_Алгоритмизации\Practice13_Zadanie3\obj\Debug\net5.0-windows\ref\Practice13_Zadanie3.dll
